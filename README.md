@@ -1,3 +1,3 @@
 # FPS
  
-Simple first person shootetr game
+Simple first person shooter game
